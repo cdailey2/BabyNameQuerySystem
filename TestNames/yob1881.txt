@@ -1,0 +1,9 @@
+Mary,F,6919
+Anna,F,2698
+Emma,F,2034
+Elizabeth,F,1852
+Margaret,F,1658
+Minnie,F,1653
+May,F,1653
+Colin,M,91
+Sean,M,90
