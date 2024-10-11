@@ -33,3 +33,7 @@ The <a href='https://github.com/cdailey2/BabyNameQuerySystem/blob/main/src/BabyN
 - Given a range of years and a gender, return the most popular letter that names of that gender have within the range.
 
 Logic to all queries can be found in the <a href='https://github.com/cdailey2/BabyNameQuerySystem/blob/main/src/BabyNameQuery.java'>BabyNamesQuery class</a>.
+
+<h2>Testing</h2>
+<p>All testing was done using JUnit.</p>
+Testing document can be found <a href='https://github.com/cdailey2/BabyNameQuerySystem/blob/main/src/TestForBabyNameQueryApplication.java'>here</a>.
