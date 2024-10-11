@@ -8,9 +8,9 @@
 More on the raw data can be found within the <a href='https://github.com/cdailey2/BabyNameQuerySystem/blob/main/names/NationalReadMe.pdf'>names directory</a>.
 The data were taken from the U.S. Social Security Administration and can be found <a href='https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-data'>here</a>.</p>
 
-<p>The data were read in using the <a href='https://github.com/cdailey2/BabyNameQuerySystem/blob/main/src/DataProcessor.java'>DataProcessor class</a> into an array list of <a href='https://github.com/cdailey2/BabyNameQuerySystem/blob/main/src/BabyNameRecord.java'>BabyNameRecord objects</a>.</p>
+<p>The data were read in using the <a href='https://github.com/cdailey2/BabyNameQuerySystem/blob/main/src/DataProcessor.java'>DataProcessor class</a> into an array list of BabyNameRecord objects.</p>
 
-The BabyNameRecord class has the following attributes:
+The <a href='https://github.com/cdailey2/BabyNameQuerySystem/blob/main/src/BabyNameRecord.java'>BabyNameRecord class</a> has the following attributes:
 - int year (extracted from the txt file that the baby comes from)
 - String name
 - char sex
