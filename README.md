@@ -1,7 +1,7 @@
 # Baby Name Query System Application
 
 <h2>Description</h2>
-<p>This project is a console-based query system for baby names, written entirely in Java. This project was used to practice clean code principles and object-oriented programming to ensure reliability, readability, reusability, scalability, and testability. This was my <b>FIRST</b> real attempt at writing clean code</p>
+<p>This project is a console-based query system for baby names, written entirely in Java. This project was used to practice clean code principles and object-oriented programming to ensure reliability, readability, reusability, scalability, and testability. <b>This was my FIRST  real attempt at writing clean code</b></p>
 
 <h2>The Data</h2>
 <p>The raw data are in a csv-style format within txt files and are formatted like the following: (Name, Sex (M/F), Frequency)
